@@ -4,7 +4,7 @@
 
 ## 配線図
 
-![alt](https://www.dropbox.com/home?preview=analogread_blink.png)
+![alt](https://www.dropbox.com/s/ip95qol139yjqq5/analogread_blink.png?dl=0)
 
 ## 動作
 
